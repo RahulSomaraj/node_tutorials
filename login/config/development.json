@@ -1,0 +1,10 @@
+{
+    "mongo":{
+        "host":"localhost",
+        "dbName":"registration",
+        "dbRSName":"",
+        "useSSL":false,
+        "username":"",
+        "password":""    
+      }   
+}

@@ -11,6 +11,10 @@ router.get('\:id',(request,response)=>{
     response.send('logout Page');
 });
 
+router.get('\:id',(request,response)=>{
+    response.send('logout Page');
+});
+
 router.put('\:id',(request,response)=>{
     response.send('logout Page');
 });
